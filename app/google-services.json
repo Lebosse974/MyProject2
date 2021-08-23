@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512093644510",
+    "project_id": "pendu-c72cc",
+    "storage_bucket": "pendu-c72cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512093644510:android:c264e4d372c0052056844f",
+        "android_client_info": {
+          "package_name": "com.example.myproject2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512093644510-gab13thsta9rrm297rrf2tnek0b7fphg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcCXXRD5W70_-v2sCg6VCNRyreffaFkrk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512093644510-gab13thsta9rrm297rrf2tnek0b7fphg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
